@@ -11,7 +11,7 @@
 ### 📱 Projects
 | Platform | Repository | Description |
 |-----------|-------------|-------------|
-| Android | [Daechulin_android](https://github.com/team-Daechulin/Daechulin_android) | Android 앱 |
+| Android | [Daechelin_android](https://github.com/team-Daechelin/Daechelin_android.git) | Android 앱 |
 | iOS | [Daechelin_iOS](https://github.com/team-Daechelin/Daechelin_iOS.git) | iOS 앱 |
 | Backend | [Daechulin_BE](https://github.com/team-Daechulin/Daechulin_BE) | API 서버 |
 
