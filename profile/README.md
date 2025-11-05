@@ -4,9 +4,9 @@
 > **"대슐랭 – 급식을 별로 평가하다 ⭐️"**
 
 ### 👩‍💻 Members
-- Backend : @xo-rxs
-- iOS : @xnwle09
-- Android : @ashxom
+- Backend : [@xo-rxs](https://github.com/xo-rxs)
+- iOS : [@xnwle09](https://github.com/xnwle09)
+- Android : [@ashxom](https://github.com/ashxom)
 
 ### 📱 Projects
 | Platform | Repository | Description |
