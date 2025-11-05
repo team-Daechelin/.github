@@ -12,7 +12,7 @@
 | Platform | Repository | Description |
 |-----------|-------------|-------------|
 | Android | [Daechulin_android](https://github.com/team-Daechulin/Daechulin_android) | Android 앱 |
-| iOS | [Daechulin_iOS](https://github.com/team-Daechulin/Daechulin_iOS) | iOS 앱 |
+| iOS | [Daechulin_iOS]([https://github.com/team-Daechulin/Daechulin_iOS](https://github.com/team-Daechelin/Daechelin_iOS)) | iOS 앱 |
 | Backend | [Daechulin_BE](https://github.com/team-Daechulin/Daechulin_BE) | API 서버 |
 
 ### 🌟 Goal
