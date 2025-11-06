@@ -13,7 +13,7 @@
 |-----------|-------------|-------------|
 | Android | [Daechelin_android](https://github.com/team-Daechelin/Daechelin_android.git) | Android 앱 |
 | iOS | [Daechelin_iOS](https://github.com/team-Daechelin/Daechelin_iOS.git) | iOS 앱 |
-| Backend | [Daechulin_BE](https://github.com/team-Daechulin/Daechulin_BE) | API 서버 |
+| Backend | [Daechelin_BE](https://github.com/team-Daechelin/Daechelin_BE.git) | API 서버 |
 
 ### 🌟 Goal
 > 교내 급식 만족도를 별점으로 평가하고,  
